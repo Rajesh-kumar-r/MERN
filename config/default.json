@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://merndev:merndev@mernlearning.5csav.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "mySecretToken"
+}
